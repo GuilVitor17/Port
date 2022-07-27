@@ -1,0 +1,2848 @@
+body{
+    margin: 0;
+}
+
+.btn1{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    color: black;
+
+
+}
+
+.btn2{
+
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+
+.btn{
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    display: flex;
+    margin-top: 90vh;
+    margin-left: 30px;
+    
+}
+
+.section2{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/03e533bf-8b1d-463f-9813-9a597aafb280/bvlatuR/std/4096x2560/M3-Homepage-Desktop-LHD ) no-repeat center;
+    min-height: 500px;
+    background-size: cover;
+}
+
+.section2{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+
+}
+
+
+
+
+
+
+
+
+
+.Conteudo{
+     height: 500px;
+     width: 50%;
+    margin: auto;
+    text-align: center;
+}
+.Modelo{
+    height: 300px;
+    width: 100%;
+
+}
+
+.Modelo h1{
+    font-size: 45px;
+    padding-top: 00px;
+    font-family: sans-serif;
+    color: #171A20;
+
+}
+
+.Modelo h6{
+    margin-top: -30px;
+    font-size: 18px;
+    color: #171A20;
+}
+
+.Modelo a{
+    color: #333;
+}
+
+.button{
+    width: 520px;
+    height: 50px;
+    text-align: center;
+    margin: auto;
+    margin-top:100px;
+}
+.pedido{
+    background-color: rgba(23, 26, 32, 0.8);
+    color: #fff;
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    float: left;
+    cursor: pointer;
+
+}
+
+.inventario{
+    background-color: #fff;
+    color: #333;
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    float: right;
+    cursor: pointer;
+}
+
+/* conteudo 2 */
+
+.section3{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/8e2df1b9-a4bf-4eb9-beec-2cf5cc77fca0/bvlatuR/std/2880x2400/Desktop-ModelY?quality=70 ) no-repeat center;
+    min-height: 500px;
+    background-size: cover;
+}
+
+.Conteudo2{
+    height: 500px;
+    width: 50%;
+   margin: auto;
+   text-align: center;
+}
+.Modelo2{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo2 h1{
+   font-size: 45px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo2 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo2 a{
+   color: #333;
+}
+
+.button2{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:180px;
+}
+.pedido2{
+   background-color: rgba(23, 26, 32, 0.8);
+   color: #fff;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   float: left;
+   cursor: pointer;
+
+}
+
+.inventario2{
+   background-color: #fff;
+   color: #333;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   float: right;
+   cursor: pointer;
+}
+
+/* conteudo 3 */
+
+.section4{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/54a21504-fab5-4e4e-b1d0-bb5ba934c86d/bvlatuR/std/4096x2560/MS-Homepage-Desktop-LHD) no-repeat center;
+    min-height: 500px;
+    background-size: cover;
+}
+
+.Conteudo3{
+    height: 500px;
+    width: 50%;
+   margin: auto;
+   text-align: center;
+}
+.Modelo3{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo3 h1{
+   font-size: 45px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo3 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo3 a{
+   color: #333;
+}
+
+.button3{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:180px;
+}
+.pedido3{
+   background-color: rgba(23, 26, 32, 0.8);
+   color: #fff;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   float: left;
+   cursor: pointer;
+
+}
+
+.inventario3{
+   background-color: #fff;
+   color: #333;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   float: right;
+   cursor: pointer;
+}
+
+/* conteudo 5 */
+
+.section5{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/27fd9006-d653-4d01-bc64-f30df30de1a4/bvlatuR/std/4096x2560/MX-Homepage-Desktop-LHD) no-repeat center;
+    min-height: 500px;
+    background-size: cover;
+}
+
+.Conteudo4{
+    height: 500px;
+    width: 50%;
+   margin: auto;
+   text-align: center;
+}
+.Modelo4{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo4 h1{
+   font-size: 45px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo4 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo4 a{
+   color: #333;
+}
+
+.button4{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:180px;
+}
+.pedido4{
+   background-color: rgba(23, 26, 32, 0.8);
+   color: #fff;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   float: left;
+   cursor: pointer;
+
+}
+
+.inventario4{
+   background-color: #fff;
+   color: #333;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   float: right;
+   cursor: pointer;
+}
+
+/* conteudo 6 */
+
+.section6{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/16b04537-a4be-4bf9-8637-86862a858da8/bvlatuR/std/2880x1800/_25-HP-SolarPanels-D) no-repeat center;
+    min-height: 500px;
+    background-size: cover;
+}
+
+.Conteudo5{
+    height: 500px;
+    width: 50%;
+   margin: auto;
+   text-align: center;
+}
+.Modelo5{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo5 h1{
+   font-size: 45px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo5 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo5 a{
+   color: #333;
+}
+
+.button5{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:180px;
+}
+.pedido5{
+   background-color: rgba(23, 26, 32, 0.8);
+   color: #fff;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   float: left;
+   cursor: pointer;
+
+}
+
+.inventario5{
+   background-color: #fff;
+   color: #333;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   float: right;
+   cursor: pointer;
+}
+
+
+/* conteudo 7 */
+
+.section7{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/c877126e-0db5-409d-a412-04fc94b59b76/bvlatuR/std/2880x1800/HP-SR-Design-D) no-repeat center;
+    min-height: 500px;
+    background-size: cover;
+}
+
+.Conteudo6{
+    height: 500px;
+    width: 50%;
+   margin: auto;
+   text-align: center;
+}
+.Modelo6{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo6 h1{
+   font-size: 45px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo6 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo6 a{
+   color: #333;
+}
+
+.button6{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:180px;
+}
+.pedido6{
+   background-color: rgba(23, 26, 32, 0.8);
+   color: #fff;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   float: left;
+   cursor: pointer;
+
+}
+
+.inventario6{
+   background-color: #fff;
+   color: #333;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   float: right;
+   cursor: pointer;
+}
+
+/* conteudo 8 */
+
+.section8{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/dd739764-bcaa-4263-9488-8c73bc9fb046/bvlatuR/std/2880x2400/Desktop-Accessories) no-repeat center;
+    min-height: 500px;
+    background-size: cover;
+}
+
+.Conteudo7{
+    height: 500px;
+    width: 60%;
+   margin: auto;
+   text-align: center;
+}
+.Modelo7{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo7 h1{
+   font-size: 45px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+
+.Modelo7 a{
+   color: #333;
+}
+
+.button7{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:180px;
+}
+.pedido7{
+   background-color: rgba(23, 26, 32, 0.8);
+   color: #fff;
+   width: 250px;
+   height: 40px;
+   border-radius: 20px;
+   border: none;
+   cursor: pointer;
+   text-align: center;
+   margin: auto;
+
+}
+.Conteudo7 a{
+    color: #171A20;
+    margin-left: 10px;
+    font-size: 15px;
+    display: inline-block;
+    
+}
+
+@media (max-width:700px) {
+
+    li{
+        font-size: 11px;
+        transform: translateX(40px);
+    }
+nav{
+            float: left;
+        transform: translateX(90px);
+        width: 600px;
+        position: fixed;
+    }
+
+    .btn1{
+        width: 100px;
+        height: 100px;
+        background-color: white;
+        color: black;
+    
+    
+    }
+    
+    .btn2{
+    
+        width: 100px;
+        height: 100px;
+        background-color: black;
+        color: white;
+    }
+    
+    .btn{
+        width: 400px;
+        height: 100px;
+        position: fixed;
+        margin-top: 20vh;
+        margin-left: 30px;
+        transform: translateX(-20px);
+        
+    }
+
+
+
+    .section2{
+        width: 700px;
+        height: 200vh;
+        text-align: center;
+        margin: auto;
+        display: flex;
+        background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/03e533bf-8b1d-463f-9813-9a597aafb280/bvlatuR/std/4096x2560/M3-Homepage-Desktop-LHD ) no-repeat center;
+        min-height: 500px;
+        background-size: cover;
+    }
+
+    .Conteudo{
+        height: 900px;
+        width: 700px;
+       margin: auto;
+       text-align: center;
+   }
+   .Modelo{
+       height: 300px;
+       width: 100%;
+   
+   }
+
+   
+   .Modelo h1{
+       font-size: 55px;
+       padding-top: 00px;
+       font-family: sans-serif;
+       color: #171A20;
+   
+   }
+   
+   .Modelo h6{
+       margin-top: -30px;
+       font-size: 20px;
+       color: #171A20;
+   }
+   
+   .Modelo a{
+       color: #333;
+   }
+   
+   .button{
+       width: 520px;
+       height: 50px;
+       text-align: center;
+       margin: auto;
+       margin-top:400px;
+   }
+   .pedido{
+       background-color: rgba(23, 26, 32, 0.8);
+       color: #fff;
+       width: 250px;
+       height: 90px;
+       border-radius: 20px;
+       border: none;
+       float: left;
+       cursor: pointer;
+   
+   }
+   
+   .inventario{
+       background-color: #fff;
+       color: #333;
+       width: 250px;
+       height: 90px;
+       border-radius: 20px;
+       border: none;
+       float: right;
+       cursor: pointer;
+   }
+   
+   /* conteudo 2 */
+   
+   .section3{
+       width: 700px;
+       height: 200vh;
+       text-align: center;
+       margin: auto;
+       display: flex;
+       background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/8e2df1b9-a4bf-4eb9-beec-2cf5cc77fca0/bvlatuR/std/2880x2400/Desktop-ModelY?quality=70 ) no-repeat center;
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo2{
+       height: 900px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+      margin-top: 140px;
+   }
+   .Modelo2{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo2 h1{
+      font-size: 55px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo2 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo2 a{
+      color: #333;
+   }
+   
+   .button2{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:480px;
+   }
+   .pedido2{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 40px;
+      border-radius: 20px;
+      border: none;
+      float: left;
+      cursor: pointer;
+   
+   }
+   
+   .inventario2{
+      background-color: #fff;
+      color: #333;
+      width: 250px;
+      height: 40px;
+      border-radius: 20px;
+      border: none;
+      float: right;
+      cursor: pointer;
+   }
+   
+   /* conteudo 3 */
+   
+   .section4{
+       width: 700px;
+       height: 200vh;
+       text-align: center;
+       margin: auto;
+       display: flex;
+       background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/54a21504-fab5-4e4e-b1d0-bb5ba934c86d/bvlatuR/std/4096x2560/MS-Homepage-Desktop-LHD) no-repeat center;
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo3{
+       height: 800px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+   }
+   .Modelo3{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo3 h1{
+      font-size: 45px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo3 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo3 a{
+      color: #333;
+   }
+   
+   .button3{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:380px;
+   }
+   .pedido3{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: left;
+      cursor: pointer;
+   
+   }
+   
+   .inventario3{
+      background-color: #fff;
+      color: #333;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: right;
+      cursor: pointer;
+   }
+   
+   /* conteudo 5 */
+   
+   .section5{
+       width: 700px;
+       height: 200vh;
+       text-align: center;
+       margin: auto;
+       display: flex;
+       background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/27fd9006-d653-4d01-bc64-f30df30de1a4/bvlatuR/std/4096x2560/MX-Homepage-Desktop-LHD) no-repeat center;
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo4{
+       height: 800px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+   }
+   .Modelo4{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo4 h1{
+      font-size: 45px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo4 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo4 a{
+      color: #333;
+   }
+   
+   .button4{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:450px;
+   }
+   .pedido4{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: left;
+      cursor: pointer;
+   
+   }
+   
+   .inventario4{
+      background-color: #fff;
+      color: #333;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: right;
+      cursor: pointer;
+   }
+   
+   /* conteudo 6 */
+   
+   .section6{
+       width: 700px;
+       height: 200vh;
+       text-align: center;
+       margin: auto;
+       display: flex;
+       background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/16b04537-a4be-4bf9-8637-86862a858da8/bvlatuR/std/2880x1800/_25-HP-SolarPanels-D) no-repeat center;
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo5{
+       height: 800px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+   }
+   .Modelo5{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo5 h1{
+      font-size: 45px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo5 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo5 a{
+      color: #333;
+   }
+   
+   .button5{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:450px;
+   }
+   .pedido5{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: left;
+      cursor: pointer;
+   
+   }
+   
+   .inventario5{
+      background-color: #fff;
+      color: #333;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: right;
+      cursor: pointer;
+   }
+   
+   
+   /* conteudo 7 */
+   
+   .section7{
+       width: 700px;
+       height: 200vh;
+       text-align: center;
+       margin: auto;
+       display: flex;
+       background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/c877126e-0db5-409d-a412-04fc94b59b76/bvlatuR/std/2880x1800/HP-SR-Design-D) no-repeat center;
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo6{
+       height: 800px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+   }
+   .Modelo6{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo6 h1{
+      font-size: 45px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo6 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo6 a{
+      color: #333;
+   }
+   
+   .button6{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:450px;
+   }
+   .pedido6{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: left;
+      cursor: pointer;
+   
+   }
+   
+   .inventario6{
+      background-color: #fff;
+      color: #333;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: right;
+      cursor: pointer;
+   }
+   
+   /* conteudo 8 */
+   
+   .section8{
+       width: 700px;
+       height: 200vh;
+       text-align: center;
+       margin: auto;
+       display: flex;
+       background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/dd739764-bcaa-4263-9488-8c73bc9fb046/bvlatuR/std/2880x2400/Desktop-Accessories) no-repeat center;
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo7{
+       height: 700px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+   }
+   .Modelo7{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo7 h1{
+      font-size: 45px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   
+   .Modelo7 a{
+      color: #333;
+   }
+   
+   .button7{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:400px;
+   }
+   .pedido7{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      cursor: pointer;
+      text-align: center;
+      margin: auto;
+   
+   }
+   .Conteudo7 a{
+       color: #171A20;
+       margin-left: 10px;
+       font-size: 12px;
+       display: inline-block;
+       margin-top: 250px;
+       
+   }
+   .menu1 , .menu2, .menu3{
+       display: none;
+   }
+    
+}
+
+
+@media (max-width:1023px) and (min-width:701px) {
+
+    .menu1 , .menu2, .menu3{
+        display: none;
+    }
+
+
+    li{
+        font-size: 17px;
+        transform: translateX(0px);
+    }
+  
+
+
+    .btn1{
+        width: 200px;
+        height: 70px;
+        background-color: white;
+        color: black;
+    
+    
+    }
+    
+    .btn2{
+    
+        width: 200px;
+        height: 70px;
+        background-color: black;
+        color: white;
+    }
+    
+    .btn{
+        width: 400px;
+        height: 100px;
+        position: fixed;
+        display: flex;
+        margin-top: 120vh;
+        margin-left: 30px;
+        
+    }
+
+
+
+    .section2{
+        width: 1023px;
+        height: 130vh;
+        text-align: center;
+        margin: auto;
+        display: flex;
+        background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/03e533bf-8b1d-463f-9813-9a597aafb280/bvlatuR/std/4096x2560/M3-Homepage-Desktop-LHD ) no-repeat center;
+        min-height: 500px;
+        background-size: cover;
+    }
+
+    .Conteudo{
+        height: 900px;
+        width: 700px;
+       margin: auto;
+       text-align: center;
+   }
+   .Modelo{
+       height: 300px;
+       width: 100%;
+   
+   }
+
+   
+   .Modelo h1{
+       font-size: 55px;
+       padding-top: 00px;
+       font-family: sans-serif;
+       color: #171A20;
+   
+   }
+   
+   .Modelo h6{
+       margin-top: -30px;
+       font-size: 20px;
+       color: #171A20;
+   }
+   
+   .Modelo a{
+       color: #333;
+   }
+   
+   .button{
+       width: 520px;
+       height: 50px;
+       text-align: center;
+       margin: auto;
+       margin-top:400px;
+   }
+   .pedido{
+       background-color: rgba(23, 26, 32, 0.8);
+       color: #fff;
+       width: 250px;
+       height: 90px;
+       border-radius: 20px;
+       border: none;
+       float: left;
+       cursor: pointer;
+   
+   }
+   
+   .inventario{
+       background-color: #fff;
+       color: #333;
+       width: 250px;
+       height: 90px;
+       border-radius: 20px;
+       border: none;
+       float: right;
+       cursor: pointer;
+   }
+   
+   /* conteudo 2 */
+   
+   .section3{
+    width: 1023px;
+    height: 140vh;
+    text-align: center;
+       margin: auto;
+       display: flex;
+       background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/8e2df1b9-a4bf-4eb9-beec-2cf5cc77fca0/bvlatuR/std/2880x2400/Desktop-ModelY?quality=70 ) no-repeat center;
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo2{
+       height: 900px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+      margin-top: 140px;
+   }
+   .Modelo2{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo2 h1{
+      font-size: 55px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo2 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo2 a{
+      color: #333;
+   }
+   
+   .button2{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:480px;
+   }
+   .pedido2{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 40px;
+      border-radius: 20px;
+      border: none;
+      float: left;
+      cursor: pointer;
+   
+   }
+   
+   .inventario2{
+      background-color: #fff;
+      color: #333;
+      width: 250px;
+      height: 40px;
+      border-radius: 20px;
+      border: none;
+      float: right;
+      cursor: pointer;
+   }
+   
+   /* conteudo 3 */
+   
+   .section4{
+    width: 1023px;
+       height: 140vh;
+       text-align: center;
+       margin: auto;
+       display: flex;
+       background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/54a21504-fab5-4e4e-b1d0-bb5ba934c86d/bvlatuR/std/4096x2560/MS-Homepage-Desktop-LHD) no-repeat center;
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo3{
+       height: 800px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+   }
+   .Modelo3{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo3 h1{
+      font-size: 45px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo3 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo3 a{
+      color: #333;
+   }
+   
+   .button3{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:380px;
+   }
+   .pedido3{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: left;
+      cursor: pointer;
+   
+   }
+   
+   .inventario3{
+      background-color: #fff;
+      color: #333;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: right;
+      cursor: pointer;
+   }
+   
+   /* conteudo 5 */
+   
+   .section5{
+    width: 1023px;
+    height: 140vh;
+    text-align: center;
+       margin: auto;
+       display: flex;
+       background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/27fd9006-d653-4d01-bc64-f30df30de1a4/bvlatuR/std/4096x2560/MX-Homepage-Desktop-LHD) no-repeat center;
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo4{
+       height: 800px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+   }
+   .Modelo4{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo4 h1{
+      font-size: 45px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo4 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo4 a{
+      color: #333;
+   }
+   
+   .button4{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:450px;
+   }
+   .pedido4{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: left;
+      cursor: pointer;
+   
+   }
+   
+   .inventario4{
+      background-color: #fff;
+      color: #333;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: right;
+      cursor: pointer;
+   }
+   
+   /* conteudo 6 */
+   
+   .section6{
+    width: 1023px;
+    height: 140vh;
+    text-align: center;
+       margin: auto;
+       display: flex;
+       background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/16b04537-a4be-4bf9-8637-86862a858da8/bvlatuR/std/2880x1800/_25-HP-SolarPanels-D) no-repeat center;
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo5{
+       height: 800px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+   }
+   .Modelo5{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo5 h1{
+      font-size: 45px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo5 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo5 a{
+      color: #333;
+   }
+   
+   .button5{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:450px;
+   }
+   .pedido5{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: left;
+      cursor: pointer;
+   
+   }
+   
+   .inventario5{
+      background-color: #fff;
+      color: #333;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: right;
+      cursor: pointer;
+   }
+   
+   
+   /* conteudo 7 */
+   
+   .section7{
+    width: 1023px;
+    height: 140vh;
+    text-align: center;
+       margin: auto;
+       display: flex;
+       background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/c877126e-0db5-409d-a412-04fc94b59b76/bvlatuR/std/2880x1800/HP-SR-Design-D) no-repeat center;
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo6{
+       height: 800px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+   }
+   .Modelo6{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo6 h1{
+      font-size: 45px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo6 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo6 a{
+      color: #333;
+   }
+   
+   .button6{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:450px;
+   }
+   .pedido6{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: left;
+      cursor: pointer;
+   
+   }
+   
+   .inventario6{
+      background-color: #fff;
+      color: #333;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      float: right;
+      cursor: pointer;
+   }
+   
+   /* conteudo 8 */
+   
+   .section8{
+    width: 1023px;
+    height: 140vh;
+    text-align: center;
+       margin: auto;
+       display: flex;
+       background: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/dd739764-bcaa-4263-9488-8c73bc9fb046/bvlatuR/std/2880x2400/Desktop-Accessories) no-repeat center;
+       min-height: 500px;
+       background-size: cover;
+   }
+   
+   .Conteudo7{
+       height: 700px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+   }
+   .Modelo7{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo7 h1{
+      font-size: 45px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   
+   .Modelo7 a{
+      color: #333;
+   }
+   
+   .button7{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:400px;
+   }
+   .pedido7{
+      background-color: rgba(23, 26, 32, 0.8);
+      color: #fff;
+      width: 250px;
+      height: 100px;
+      border-radius: 20px;
+      border: none;
+      cursor: pointer;
+      text-align: center;
+      margin: auto;
+   
+   }
+   .Conteudo7 a{
+       color: #171A20;
+       margin-left: 10px;
+       font-size: 12px;
+       display: inline-block;
+       margin-top: 250px;
+       
+   }
+  
+    
+}
+
+
+@media (max-width:1279px) and (min-width:1024px) {
+
+    .menu1 , .menu2, .menu3{
+        display: none;
+    }
+
+
+    li{
+        font-size: 15px;
+        transform: translateX(0px);
+    }
+  
+ }
+
+
+
+ @media (max-width:1500px) and (min-width:1281px) {
+
+
+    .btn1{
+        width: 100px;
+        height: 50;
+        background-color: white;
+        color: black;
+    
+    
+    }
+    
+    .btn2{
+    
+        width: 100px;
+        height: 50px;
+        background-color: black;
+        color: white;
+    }
+    
+    .btn{
+        width: 200px;
+        height: 100px;
+        position: fixed;
+        display: flex;
+        margin-top: 90vh;
+        margin-left: 30px;
+        
+    }
+
+    .Conteudo{
+        height: 1000px;
+        width: 700px;
+       margin: auto;
+       text-align: center;
+   }
+   .Modelo{
+       height: 300px;
+       width: 100%;
+   
+   }
+
+   
+   .Modelo h1{
+       font-size: 55px;
+       padding-top: 00px;
+       font-family: sans-serif;
+       color: #171A20;
+   
+   }
+   
+   .Modelo h6{
+       margin-top: -30px;
+       font-size: 20px;
+       color: #171A20;
+   }
+   
+   .Modelo a{
+       color: #333;
+   }
+   
+   .button{
+       width: 520px;
+       height: 50px;
+       text-align: center;
+       margin: auto;
+       margin-top:600px;
+   }
+   
+   /* conteudo 2 */
+   
+
+   
+   .Conteudo2{
+       height: 1000px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+      margin-top: 140px;
+   }
+   .Modelo2{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo2 h1{
+      font-size: 55px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo2 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo2 a{
+      color: #333;
+   }
+   
+   .button2{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:600px;
+   }
+  
+   /* conteudo 3 */
+   
+   .Conteudo3{
+    height: 1000px;
+    width: 700px;
+   margin: auto;
+   text-align: center;
+   margin-top: 140px;
+}
+.Modelo3{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo3 h1{
+   font-size: 55px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo3 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo3 a{
+   color: #333;
+}
+
+.button3{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:600px;
+}
+
+   /* conteudo 5 */
+   
+   .Conteudo4{
+    height: 1000px;
+    width: 700px;
+   margin: auto;
+   text-align: center;
+   margin-top: 140px;
+}
+.Modelo4{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo4 h1{
+   font-size: 55px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo4 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo4 a{
+   color: #333;
+}
+
+.button4{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:600px;
+}
+
+   /* conteudo 6 */
+   
+   .Conteudo5{
+    height: 1000px;
+    width: 700px;
+   margin: auto;
+   text-align: center;
+   margin-top: 140px;
+}
+.Modelo5{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo5 h1{
+   font-size: 55px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo5 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo5 a{
+   color: #333;
+}
+
+.button5{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:600px;
+}
+
+   /* conteudo 8 */
+   
+   .Conteudo6{
+    height: 1000px;
+    width: 700px;
+   margin: auto;
+   text-align: center;
+   margin-top: 140px;
+}
+.Modelo6{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo6 h1{
+   font-size: 55px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo6 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo6 a{
+   color: #333;
+}
+
+.button6{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:600px;
+}
+
+  
+    
+ }
+
+
+ @media (min-width:1500px) and (max-width:1920px) {
+
+
+
+   .btn1{
+        width: 150px;
+        height: 80;
+        background-color: white;
+        color: black;
+    
+    
+    }
+    
+    .btn2{
+    
+        width: 150px;
+        height: 80px;
+        background-color: black;
+        color: white;
+    }
+    
+    .btn{
+        width: 300px;
+        height: 100px;
+        position: fixed;
+        display: flex;
+        margin-top: 90vh;
+        margin-left: 30px;
+        
+    }
+
+    .Conteudo{
+        height: 1000px;
+        width: 700px;
+       margin: auto;
+       text-align: center;
+   }
+   .Modelo{
+       height: 300px;
+       width: 100%;
+   
+   }
+
+   
+   .Modelo h1{
+       font-size: 55px;
+       padding-top: 00px;
+       font-family: sans-serif;
+       color: #171A20;
+   
+   }
+   
+   .Modelo h6{
+       margin-top: -30px;
+       font-size: 20px;
+       color: #171A20;
+   }
+   
+   .Modelo a{
+       color: #333;
+   }
+   
+   .button{
+       width: 520px;
+       height: 50px;
+       text-align: center;
+       margin: auto;
+       margin-top:600px;
+   }
+   
+   /* conteudo 2 */
+   
+
+   
+   .Conteudo2{
+       height: 1000px;
+       width: 700px;
+      margin: auto;
+      text-align: center;
+      margin-top: 140px;
+   }
+   .Modelo2{
+      height: 220px;
+      width: 100%;
+   }
+   
+   .Modelo2 h1{
+      font-size: 55px;
+      padding-top: 00px;
+      font-family: sans-serif;
+      color: #171A20;
+   
+   }
+   
+   .Modelo2 h6{
+      margin-top: -30px;
+      font-size: 18px;
+      color: #171A20;
+   }
+   
+   .Modelo2 a{
+      color: #333;
+   }
+   
+   .button2{
+      width: 520px;
+      height: 50px;
+      text-align: center;
+      margin: auto;
+      margin-top:800px;
+   }
+  
+   /* conteudo 3 */
+   
+   .Conteudo3{
+    height: 1000px;
+    width: 700px;
+   margin: auto;
+   text-align: center;
+   margin-top: 140px;
+}
+.Modelo3{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo3 h1{
+   font-size: 55px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo3 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo3 a{
+   color: #333;
+}
+
+.button3{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:800px;
+}
+
+   /* conteudo 5 */
+   
+   .Conteudo4{
+    height: 1000px;
+    width: 700px;
+   margin: auto;
+   text-align: center;
+   margin-top: 140px;
+}
+.Modelo4{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo4 h1{
+   font-size: 55px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo4 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo4 a{
+   color: #333;
+}
+
+.button4{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:800px;
+}
+
+   /* conteudo 6 */
+   
+   .Conteudo5{
+    height: 1000px;
+    width: 700px;
+   margin: auto;
+   text-align: center;
+   margin-top: 140px;
+}
+.Modelo5{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo5 h1{
+   font-size: 55px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo5 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo5 a{
+   color: #333;
+}
+
+.button5{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:800px;
+}
+
+   /* conteudo 8 */
+   
+   .Conteudo6{
+    height: 1000px;
+    width: 700px;
+   margin: auto;
+   text-align: center;
+   margin-top: 140px;
+}
+.Modelo6{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo6 h1{
+   font-size: 55px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo6 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo6 a{
+   color: #333;
+}
+
+.button6{
+   width: 520px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:800px;
+}
+.Conteudo p{
+    margin-top: 50px;
+}
+
+
+
+.Conteudo7{
+    height: 1000px;
+    width: 700px;
+   margin: auto;
+   text-align: center;
+   margin-top: 140px;
+}
+.Modelo7{
+   height: 220px;
+   width: 100%;
+}
+
+.Modelo7 h1{
+   font-size: 55px;
+   padding-top: 00px;
+   font-family: sans-serif;
+   color: #171A20;
+
+}
+
+.Modelo7 h6{
+   margin-top: -30px;
+   font-size: 18px;
+   color: #171A20;
+}
+
+.Modelo7 a{
+   color: #333;
+}
+
+.button7{
+   width: 620px;
+   height: 50px;
+   text-align: center;
+   margin: auto;
+   margin-top:800px;
+}
+.Conteudo7 p{
+    margin-top: 100px;
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+    transform: translateX(-120px);
+}
+
+  
+    
+ }
+
+
+ @media (min-width:1921px){
+
+
+
+    .btn1{
+         width: 100px;
+         height: 50;
+         background-color: white;
+         color: black;
+     
+     
+     }
+     
+     .btn2{
+     
+         width: 100px;
+         height: 50px;
+         background-color: black;
+         color: white;
+     }
+     
+     .btn{
+         width: 200px;
+         height: 100px;
+         position: fixed;
+         display: flex;
+         margin-top: 90vh;
+         margin-left: 30px;
+         
+     }
+ 
+     .Conteudo{
+         height: 1000px;
+         width: 700px;
+        margin: auto;
+        text-align: center;
+    }
+    .Modelo{
+        height: 300px;
+        width: 100%;
+    
+    }
+ 
+    
+    .Modelo h1{
+        font-size: 55px;
+        padding-top: 00px;
+        font-family: sans-serif;
+        color: #171A20;
+    
+    }
+    
+    .Modelo h6{
+        margin-top: -30px;
+        font-size: 20px;
+        color: #171A20;
+    }
+    
+    .Modelo a{
+        color: #333;
+    }
+    
+    .button{
+        width: 520px;
+        height: 50px;
+        text-align: center;
+        margin: auto;
+        margin-top:600px;
+    }
+    
+    /* conteudo 2 */
+    
+ 
+    
+    .Conteudo2{
+        height: 1000px;
+        width: 700px;
+       margin: auto;
+       text-align: center;
+       margin-top: 140px;
+    }
+    .Modelo2{
+       height: 220px;
+       width: 100%;
+    }
+    
+    .Modelo2 h1{
+       font-size: 55px;
+       padding-top: 00px;
+       font-family: sans-serif;
+       color: #171A20;
+    
+    }
+    
+    .Modelo2 h6{
+       margin-top: -30px;
+       font-size: 18px;
+       color: #171A20;
+    }
+    
+    .Modelo2 a{
+       color: #333;
+    }
+    
+    .button2{
+       width: 520px;
+       height: 50px;
+       text-align: center;
+       margin: auto;
+       margin-top:800px;
+    }
+   
+    /* conteudo 3 */
+    
+    .Conteudo3{
+     height: 1000px;
+     width: 700px;
+    margin: auto;
+    text-align: center;
+    margin-top: 140px;
+ }
+ .Modelo3{
+    height: 220px;
+    width: 100%;
+ }
+ 
+ .Modelo3 h1{
+    font-size: 55px;
+    padding-top: 00px;
+    font-family: sans-serif;
+    color: #171A20;
+ 
+ }
+ 
+ .Modelo3 h6{
+    margin-top: -30px;
+    font-size: 18px;
+    color: #171A20;
+ }
+ 
+ .Modelo3 a{
+    color: #333;
+ }
+ 
+ .button3{
+    width: 520px;
+    height: 50px;
+    text-align: center;
+    margin: auto;
+    margin-top:800px;
+ }
+ 
+    /* conteudo 5 */
+    
+    .Conteudo4{
+     height: 1000px;
+     width: 700px;
+    margin: auto;
+    text-align: center;
+    margin-top: 140px;
+ }
+ .Modelo4{
+    height: 220px;
+    width: 100%;
+ }
+ 
+ .Modelo4 h1{
+    font-size: 55px;
+    padding-top: 00px;
+    font-family: sans-serif;
+    color: #171A20;
+ 
+ }
+ 
+ .Modelo4 h6{
+    margin-top: -30px;
+    font-size: 18px;
+    color: #171A20;
+ }
+ 
+ .Modelo4 a{
+    color: #333;
+ }
+ 
+ .button4{
+    width: 520px;
+    height: 50px;
+    text-align: center;
+    margin: auto;
+    margin-top:800px;
+ }
+ 
+    /* conteudo 6 */
+    
+    .Conteudo5{
+     height: 1000px;
+     width: 700px;
+    margin: auto;
+    text-align: center;
+    margin-top: 140px;
+ }
+ .Modelo5{
+    height: 220px;
+    width: 100%;
+ }
+ 
+ .Modelo5 h1{
+    font-size: 55px;
+    padding-top: 00px;
+    font-family: sans-serif;
+    color: #171A20;
+ 
+ }
+ 
+ .Modelo5 h6{
+    margin-top: -30px;
+    font-size: 18px;
+    color: #171A20;
+ }
+ 
+ .Modelo5 a{
+    color: #333;
+ }
+ 
+ .button5{
+    width: 520px;
+    height: 50px;
+    text-align: center;
+    margin: auto;
+    margin-top:800px;
+ }
+ 
+    /* conteudo 8 */
+    
+    .Conteudo6{
+     height: 1000px;
+     width: 700px;
+    margin: auto;
+    text-align: center;
+    margin-top: 140px;
+ }
+ .Modelo6{
+    height: 220px;
+    width: 100%;
+ }
+ 
+ .Modelo6 h1{
+    font-size: 55px;
+    padding-top: 00px;
+    font-family: sans-serif;
+    color: #171A20;
+ 
+ }
+ 
+ .Modelo6 h6{
+    margin-top: -30px;
+    font-size: 18px;
+    color: #171A20;
+ }
+ 
+ .Modelo6 a{
+    color: #333;
+ }
+ 
+ .button6{
+    width: 520px;
+    height: 50px;
+    text-align: center;
+    margin: auto;
+    margin-top:800px;
+ }
+ .Conteudo p{
+     margin-top: 50px;
+ }
+ 
+ 
+ 
+ .Conteudo7{
+     height: 1000px;
+     width: 700px;
+    margin: auto;
+    text-align: center;
+    margin-top: 140px;
+ }
+ .Modelo7{
+    height: 220px;
+    width: 100%;
+ }
+ 
+ .Modelo7 h1{
+    font-size: 55px;
+    padding-top: 00px;
+    font-family: sans-serif;
+    color: #171A20;
+ 
+ }
+ 
+ .Modelo7 h6{
+    margin-top: -30px;
+    font-size: 18px;
+    color: #171A20;
+ }
+ 
+ .Modelo7 a{
+    color: #333;
+ }
+ 
+ .button7{
+    width: 620px;
+    height: 50px;
+    text-align: center;
+    margin: auto;
+    margin-top:800px;
+ }
+ .Conteudo7 p{
+     margin-top: 100px;
+     width: 1000px;
+     text-align: center;
+     margin: auto;
+     transform: translateX(-120px);
+ }
+ 
+   
+     
+  }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+     
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

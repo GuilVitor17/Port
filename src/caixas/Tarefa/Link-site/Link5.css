@@ -1,0 +1,103 @@
+.repositorio5{
+    width: 100%;
+    margin-top: 10px;
+    height: 40px;
+    float:left ;
+    transform: translateX(100px);
+}
+.repositorio5 button{
+    width: 220px;
+    float: left;
+    background-color: #fff;
+    color: #000;
+    border-radius: 0px;
+    border: 0;
+    margin-top: 0px;
+}
+.codigohtml{
+    width: 100%;
+    margin-top: -100px;
+    height: 400px;
+    background-color: rgb(95, 42, 165);
+    float:left ;
+    display: none;
+}
+.Conteudohtml{
+    width:100%;
+    margin-top: 35px;
+    overflow: scroll;
+    height: 365px;
+    background-color: rgb(42, 165, 63);
+    float:left ;
+}
+
+@media (max-width:700px) {
+    
+    .repositorio5{
+        width: 100%;
+        margin-top: 10px;
+        height: 40px;
+        float:left ;
+        transform: translateX(100px);
+    }
+    .repositorio5 button{
+        width:500px;
+        float: left;
+        background-color: #fff;
+        color: #000;
+        border-radius: 0px;
+        border: 0;
+        margin-top: 170px;
+    }
+    .codigohtml{
+        width: 100%;
+        margin-top: -100px;
+        height: 400px;
+        background-color: rgb(95, 42, 165);
+        float:left ;
+        display: none;
+    }
+    .Conteudohtml{
+        width:100%;
+        margin-top: 35px;
+        overflow: scroll;
+        height: 365px;
+        background-color: rgb(42, 165, 63);
+        float:left ;
+    }
+}
+
+@media (max-width:1023px) and (min-width:701px) {
+    .repositorio5{
+    width: 100%;
+    margin-top: 10px;
+    height: 40px;
+    float:left ;
+    transform: translateX(100px);
+}
+.repositorio5 button{
+    width:800px;
+    float: left;
+    background-color: #fff;
+    color: #000;
+    border-radius: 0px;
+    border: 0;
+    margin-top:240px;
+}
+.codigohtml{
+    width: 100%;
+    margin-top: -100px;
+    height: 400px;
+    background-color: rgb(95, 42, 165);
+    float:left ;
+    display: none;
+}
+.Conteudohtml{
+    width:100%;
+    margin-top: 35px;
+    overflow: scroll;
+    height: 365px;
+    background-color: rgb(42, 165, 63);
+    float:left ;
+}
+}

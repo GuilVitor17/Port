@@ -1,0 +1,211 @@
+.contador{
+    width: 100%;
+    background-color: #240F52; 
+  background-image: linear-gradient(0deg, #000, #000);
+  height: 100vh;
+  overflow: hidden;
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: flex-start;
+  align-items: center;
+   
+}
+.center {
+    margin: 0 auto;
+  }
+  
+  .outer-ring {
+    position: absolute;
+    left: calc(50% - 150px);
+    height: 300px;
+    width: 300px;
+    background-image: linear-gradient(135deg, #fff 10%, rgb(0, 128, 100) 100%);
+    border-radius: 50%;
+    margin-top: 70px;
+    margin-left: 50px;
+
+    
+    /*  Rotate  */
+    animation-duration: 2s;
+    animation-name: rotate;
+    animation-iteration-count: infinite;
+  }
+  
+  .inner-ring {
+    position: absolute;
+    left: calc(50% - 140px);
+    height: 280px;
+    margin-top: 80px;
+    margin-left: 50px;
+    width: 280px;
+    background-image: linear-gradient(0deg, #000, #000);
+    border-radius: 50%;
+    z-index: 0;
+  }
+  
+  @keyframes rotate {
+      0% {transform:rotate(0deg);}
+      100% {transform:rotate(360deg);}
+  }
+
+  #image-esq{
+    position: absolute;
+    width: 300px;
+    height:540px;
+    background-image: url(./imags/100c4d082bb735676c91e00cbac0e74b-removebg-preview.png);
+    margin-right: 530px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  @media (max-width:700px) {
+    .contador{
+      width: 700px;
+      background-color: #240F52; 
+    height: 150vh;
+    overflow: hidden;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: flex-start;
+    align-items: center;
+     
+  }
+
+    
+    .outer-ring {
+      left: calc(50% - 150px);
+      height: 300px;
+      width: 300px;
+      background-image: linear-gradient(135deg, #fff 10%, rgb(0, 128, 100) 100%);
+      border-radius: 50%;
+      margin-top: 70px;
+      margin-left: 50px;
+      display: none;
+      position: static;
+  
+      
+      /*  Rotate  */
+      animation-duration: 2s;
+      animation-name: rotate;
+      animation-iteration-count: infinite;
+    }
+    
+    .inner-ring {
+      left: calc(0% - 0px);
+      height: 390px;
+      margin-top: 900px;
+      margin-left: 50px;
+      width: 500px;
+      align-items: center;
+      border-radius: 0%;
+      background-image: linear-gradient(0deg,transparent,transparent);
+
+    }
+    
+    @keyframes rotate {
+        0% {transform:rotate(0deg);}
+        100% {transform:rotate(360deg);}
+    }
+  
+    #image-esq{
+      position:static;
+      width: 290px;
+      height:550px;
+      background-image: url(./imags/100c4d082bb735676c91e00cbac0e74b-removebg-preview.png);
+      margin-right: -0px;
+      background-repeat: no-repeat;
+      margin-top: 150px;
+      background-size: none;
+  
+    }
+    
+    
+    
+    
+    
+  
+  }
+  @media (max-width:1023px) and (min-width:701px) {
+    .contador{
+      width: 1023px;
+      background-color: #240F52; 
+    height: 150vh;
+    overflow: hidden;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: flex-start;
+    align-items: center;
+     
+  }
+
+    
+    .outer-ring {
+      left: calc(50% - 150px);
+      height: 800px;
+      width: 500px;
+      background-image: linear-gradient(135deg, #fff 10%, rgb(0, 128, 100) 100%);
+      border-radius: 50%;
+      margin-top: 70px;
+      margin-left: 50px;
+      display: none;
+      position: static;
+  
+      
+      /*  Rotate  */
+      animation-duration: 2s;
+      animation-name: rotate;
+      animation-iteration-count: infinite;
+    }
+    
+    .inner-ring {
+      left: calc(0% - 0px);
+      height: 390px;
+      margin-top: 900px;
+      margin-left: 50px;
+      width: 500px;
+      align-items: center;
+      border-radius: 0%;
+      background-image: linear-gradient(0deg,transparent,transparent);
+
+    }
+    
+    @keyframes rotate {
+        0% {transform:rotate(0deg);}
+        100% {transform:rotate(360deg);}
+    }
+  
+    #image-esq{
+      position:static;
+      width: 290px;
+      height:550px;
+      background-image: url(./imags/100c4d082bb735676c91e00cbac0e74b-removebg-preview.png);
+      margin-right: -0px;
+      background-repeat: no-repeat;
+      margin-top: 150px;
+      background-size: none;
+  
+    }
+    
+    
+    
+    
+    
+  
+  }
+  
+  
+  
+  
+  
+
+  
+  
+  
+  

@@ -1,0 +1,110 @@
+#repositorio5{ 
+    width: 100%;
+    margin-top: 0px;
+    height: 50px;
+    float:left ;
+    transform: translateX(100px);
+
+}
+#repositorio5 button{
+    width: 220px;
+    float: right;
+    background-color: black;
+    color: #000;
+    margin-top: 10px;
+    border: 0;
+    border-radius: 0px;
+    
+
+}
+.codigohtml{
+    width: 100%;
+    margin-top: -100px;
+    height: 400px;
+    background-color: rgb(95, 42, 165);
+    float:left ;
+    display: none;
+}
+.Conteudohtml{
+    width:100%;
+    margin-top: 35px;
+    overflow: scroll;
+    height: 365px;
+    background-color: rgb(42, 165, 63);
+    float:left ;
+}
+
+@media (max-width:700px) {
+    #repositorio5{ 
+        width: 100%;
+        margin-top: 0px;
+        height: 10px;
+        float:left ;
+    
+    }
+    #repositorio5 button{
+        width: 500px;
+        float: right;
+        background-color: black;
+        color: #000;
+        border: 0;
+        border-radius: 0px;
+        margin-top: 80px;
+        
+    
+    }
+    .codigohtml{
+        width: 100%;
+        margin-top: -100px;
+        height: 400px;
+        background-color: rgb(95, 42, 165);
+        float:left ;
+        display: none;
+    }
+    .Conteudohtml{
+        width:100%;
+        margin-top: 35px;
+        overflow: scroll;
+        height: 365px;
+        background-color: rgb(42, 165, 63);
+        float:left ;
+    }
+}
+
+
+@media (max-width:1023px) and (min-width:701px) {
+    .repositorio5{ 
+        width: 100%;
+        margin-top: 0px;
+        height: 400px;
+        float:left ;
+    
+    }
+    #repositorio5 button{
+        width: 800px;
+        float: right;
+        margin-top: 130px;
+        background-color: black;
+        color: #000;
+        border: 0;
+        border-radius: 0px;
+        
+    
+    }
+    .codigohtml{
+        width: 100%;
+        margin-top: -100px;
+        height: 400px;
+        background-color: rgb(95, 42, 165);
+        float:left ;
+        display: none;
+    }
+    .Conteudohtml{
+        width:100%;
+        margin-top: 35px;
+        overflow: scroll;
+        height: 365px;
+        background-color: rgb(42, 165, 63);
+        float:left ;
+    }
+}

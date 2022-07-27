@@ -1,0 +1,141 @@
+.repositorioLink8{
+    width: 220px;
+    margin-top: 75px;
+    height: 80px;
+    position: absolute;
+    transform: translateX(270px);
+
+    
+   
+}
+.repositorioLink8 button{
+    width: 220px;
+    height: 40px;
+    background: linear-gradient(rgb(248, 10, 10),#b6b3b3);
+    color: #000;
+    cursor: pointer;
+    font-size: 17px;
+    margin-top: 0px;
+    border-radius: 10px;
+    border: 0;
+    z-index: 30060;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.repositorioLink8 button:hover{
+    background-color:  rgb(0, 128, 100);
+}
+
+.codigo8{
+    width: 200px;
+    margin-top: -40px;
+    height: 200px;
+    float:left ;
+    display: none;
+    
+}
+
+.Conteudo{
+    width: 100%;
+    margin-top: 0px;
+    overflow: scroll;
+    height: 365px;
+    float:left ;
+}
+@media (max-width:700px) {
+
+    .repositorioLink8{
+        width: 220px;
+        margin-top: 290px;
+        height: 80px;
+        position: absolute;
+        transform: translateX(-50px);
+    
+        
+       
+    }
+    .repositorioLink8 button{
+        width: 500px;
+        height: 100px;
+        background: linear-gradient(rgb(248, 10, 10),#b6b3b3);
+        color: #000;
+        cursor: pointer;
+        position: fixed;
+        font-size: 37px;
+        margin-top: 0px;
+        border-radius: 0px;
+        border: 0;
+        z-index: 30060;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .repositorioLink8 button:hover{
+        background-color:  rgb(0, 128, 100);
+    }
+    
+    .codigo8{
+        width: 200px;
+        margin-top: 0px;
+        height: 200px;
+        margin-left: 10px;
+        float:left ;
+        display: none;
+        margin-left: 10px;
+        
+    }
+    
+    .Conteudo{
+        width: 100%;
+        margin-top: 0px;
+        overflow: scroll;
+        height: 365px;
+        float:left ;
+    }
+}
+    @media (max-width:1023px) and (min-width:701px) {
+    
+        .repositorioLink8{
+            width: 220px;
+            margin-top: 275px;
+            height: 80px;
+            position: absolute;
+            transform: translateX(-200px);
+        
+            
+           
+        }
+        .repositorioLink8 button{
+            width: 800px;
+            height: 150px;
+            background: linear-gradient(rgb(248, 10, 10),#b6b3b3);
+            color: #000;
+            cursor: pointer;
+            position: fixed;
+            font-size: 50px;
+            margin-top: 0px;
+            border-radius: 10px;
+            border: 0;
+            z-index: 30060;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        .repositorioLink8 button:hover{
+            background-color:  rgb(0, 128, 100);
+        }
+        
+        .codigo8{
+            width: 200px;
+            margin-top: -0px;
+            height: 200px;
+            float:left ;
+            display: none;
+            margin-left: 10px;
+            
+        }
+        
+        .Conteudo{
+            width: 100%;
+            margin-top: 0px;
+            overflow: scroll;
+            height: 365px;
+            float:left ;
+        }
+       
+    }

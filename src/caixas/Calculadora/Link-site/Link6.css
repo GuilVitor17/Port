@@ -1,0 +1,108 @@
+.repositoriohtml6{
+    width: 100%;
+    margin-top: 10px;
+    height: 400px;
+    float:left ;
+
+}
+.repositorioSite button{
+    width: 200px;
+    float: left;
+    background-color: #fff;
+    color: #000;
+    border-radius: 0px;
+    border: 0;
+    margin-top: -40px;
+    margin-left: 115px;
+}
+.codigohtml{
+    width: 100%;
+    margin-top: -100px;
+    height: 400px;
+    background-color: rgb(95, 42, 165);
+    float:left ;
+    display: none;
+}
+.Conteudohtml{
+    width:100%;
+    margin-top: 35px;
+    overflow: scroll;
+    height: 365px;
+    background-color: rgb(42, 165, 63);
+    float:left ;
+}
+
+@media (max-width:700px) {
+    .repositoriohtml6{
+        width: 100%;
+        margin-top: 10px;
+        height: 400px;
+        float:left ;
+    
+    }
+    .repositorioSite button{
+        width: 500px;
+        float: left;
+        background-color: #fff;
+        color: #000;
+        border-radius: 0px;
+        border: 0;
+        margin-top: 40px;
+        margin-left: 0px;
+    }
+    .codigohtml{
+        width: 100%;
+        margin-top: -100px;
+        height: 400px;
+        background-color: rgb(95, 42, 165);
+        float:left ;
+        display: none;
+    }
+    .Conteudohtml{
+        width:100%;
+        margin-top: 35px;
+        overflow: scroll;
+        height: 365px;
+        background-color: rgb(42, 165, 63);
+        float:left ;
+    }
+}
+    
+    @media (max-width:1023px) and (min-width:701px) {
+        .repositoriohtml6{
+            width: 100%;
+            margin-top: 10px;
+            height: 400px;
+            float:left ;
+        
+        }
+        .repositorioSite button{
+            width: 800px;
+            float: left;
+            background-color: #fff;
+            color: #000;
+            border-radius: 0px;
+            border: 0;
+            margin-top: 340px;
+            margin-left: 0px;
+        }
+        .codigohtml{
+            width: 100%;
+            margin-top: -100px;
+            height: 400px;
+            background-color: rgb(95, 42, 165);
+            float:left ;
+            display: none;
+        }
+        .Conteudohtml{
+            width:100%;
+            margin-top: 35px;
+            overflow: scroll;
+            height: 365px;
+            background-color: rgb(42, 165, 63);
+            float:left ;
+        }
+        
+            
+    
+    }

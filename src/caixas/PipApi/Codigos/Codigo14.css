@@ -1,0 +1,101 @@
+.repositoriohtml{
+    width: 100%;
+    margin-top: 10px;
+    height: 400px;
+    float:left ;
+}
+.repositorio14Codigo button{
+    width: 220px;
+    float: right;
+    color: #fff;
+    border: 0;
+    margin-top: 10px;
+    transform: translateX(190px);
+
+}
+.codigohtml{
+    width: 100%;
+    margin-top: -100px;
+    height: 400px;
+    background-color: rgb(95, 42, 165);
+    float:left ;
+    display: none;
+}
+.Conteudohtml{
+    width:100%;
+    margin-top: 35px;
+    overflow: scroll;
+    height: 365px;
+    background-color: rgb(42, 165, 63);
+    float:left ;
+}
+@media (max-width:700px) {
+    .repositoriohtml{
+        width: 100%;
+        margin-top: 10px;
+        height: 400px;
+        float:left ;
+    }
+    .repositorio14Codigo button{
+        width: 500px;
+        float: right;
+        color: #fff;
+        border: 0;
+        border-radius:0;
+        margin-top: 170px;
+        transform: translateX(170px);
+
+    }
+    .codigohtml{
+        width: 100%;
+        margin-top: -100px;
+        height: 400px;
+        background-color: rgb(95, 42, 165);
+        float:left ;
+        display: none;
+    }
+    .Conteudohtml{
+        width:100%;
+        margin-top: 35px;
+        overflow: scroll;
+        height: 365px;
+        background-color: rgb(42, 165, 63);
+        float:left ;
+    }
+}
+
+@media (min-width:701px) and (max-width:1023px) {
+
+    .repositoriohtml{
+        width: 100%;
+        margin-top: 10px;
+        height: 400px;
+        float:left ;
+    }
+    .repositorio14Codigo button{
+        width: 800px;
+        float: right;
+        color: #fff;
+        border: 0;
+        border-radius:0;
+        margin-top: 230px;
+        transform: translateX(170px);
+
+    }
+    .codigohtml{
+        width: 100%;
+        margin-top: -100px;
+        height: 400px;
+        background-color: rgb(95, 42, 165);
+        float:left ;
+        display: none;
+    }
+    .Conteudohtml{
+        width:100%;
+        margin-top: 35px;
+        overflow: scroll;
+        height: 365px;
+        background-color: rgb(42, 165, 63);
+        float:left ;
+    }
+}

@@ -1,0 +1,147 @@
+.repositorioLink5{
+    width: 120px;
+    margin-top: 50px;
+    height: 80px;
+    position: absolute;
+    transform: translateX(200px);
+   
+}
+.repositorioLink5 button{
+    width: 220px;
+    height: 40px;
+    background: linear-gradient(180deg,#6b5a27, rgb(201, 191, 191));
+    color: #000;
+    cursor: pointer;
+    font-size: 17px;
+    margin-top: 10px;
+    position: absolute;
+    border-radius: 0px;
+    border: 0;
+    z-index: 30060;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.repositorioLink5 button:hover{
+    background-color:  #fff;
+}
+
+.codigo5{
+    width: 200px;
+    margin-top: 50px;
+    height: 200px;
+    float:left ;
+    display: none;
+    
+}
+.codigo5 button{
+    margin-left: -140px;
+    margin-top: -40px;
+}
+
+.Conteudo{
+    width: 100%;
+    margin-top: 0px;
+    overflow: scroll;
+    height: 365px;
+    float:left ;
+}
+
+
+@media (max-width:700px) {
+
+    .repositorioLink5{
+        width: 120px;
+        margin-top: 290px;
+        height: 80px;
+        position: static;
+        transform: translateX(-00px);
+       
+    }
+    .repositorioLink5 button{
+        width: 500px;
+        height:100px;
+        background: linear-gradient(180deg,#6b5a27, rgb(201, 191, 191));
+        color: #000;
+        cursor: pointer;
+        font-size: 37px;
+        margin-top: 10px;
+        position: fixed;
+        border-radius: 0px;
+        border: 0;
+        z-index: 30060;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .repositorioLink5 button:hover{
+        background-color:  #fff;
+    }
+    
+    .codigo5{
+        width: 200px;
+        margin-top: 50px;
+        height: 200px;
+        float:left ;
+        display: none;
+        
+    }
+    .codigo5 button{
+        margin-left: -140px;
+        margin-top: -40px;
+    }
+    
+    .Conteudo{
+        width: 100%;
+        margin-top: 0px;
+        overflow: scroll;
+        height: 365px;
+        float:left ;
+    }
+}
+    @media (max-width:1023px) and (min-width:701px) {
+    
+        .repositorioLink5{
+            width: 120px;
+            margin-top: 150px;
+            height: 80px;
+            position: static;
+            transform: translateX(-150px);
+           
+        }
+        .repositorioLink5 button{
+            width: 800px;
+            height: 150px;
+            background: linear-gradient(180deg,#6b5a27, rgb(201, 191, 191));
+            color: #000;
+            cursor: pointer;
+            font-size: 50px;
+            margin-top: 10px;
+            position: fixed;
+            border-radius: 0px;
+            border: 0;
+            z-index: 0;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        .repositorioLink5 button:hover{
+            background-color:  #fff;
+        }
+        
+        .codigo5{
+            width: 200px;
+            margin-top: 50px;
+            height: 200px;
+            float:left ;
+            display: none;
+            
+        }
+        .codigo5 button{
+            margin-left: -140px;
+            margin-top: -40px;
+        }
+        
+        .Conteudo{
+            width: 100%;
+            margin-top: 0px;
+            overflow: scroll;
+            height: 365px;
+            float:left ;
+        }
+       
+    }

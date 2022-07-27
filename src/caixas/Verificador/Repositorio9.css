@@ -1,0 +1,152 @@
+.repositorioLink9{
+    width: 120px;
+    margin-top: -50px;
+    height: 80px;
+    position: absolute;
+    transform: translateX(-130px);
+   
+}
+.repositorioLink9 button{
+    width: 220px;
+    height: 40px;
+    background: linear-gradient(rgb(71, 72, 75),rgb(87, 90, 76), rgb(85, 85, 49));
+    color: rgb(232, 233, 227);
+    cursor: pointer;
+    font-size: 17px;
+    margin-top: -10px;
+    border-radius: 0px;
+    transform: translateX(170px);
+    border: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.repositorioLink9 button:hover{
+    background-color:  #333;
+    color: #fff;
+}
+
+.codigo9{
+    width: 200px;
+    margin-top: -40px;
+    height: 200px;
+    float:left ;
+    display: none;
+    
+}
+.codigo9 button{
+    margin-left: 0px;
+    margin-top: 50px;
+
+}
+
+.Conteudo{
+    width: 100%;
+    margin-top: 0px;
+    overflow: scroll;
+    height: 365px;
+    float:left ;
+}
+@media (max-width:700px) {
+
+    .repositorioLink9{
+        width: 120px;
+        margin-top: 490px;
+        height: 80px;
+        position: absolute;
+        transform: translateX(-250px);
+       
+    }
+    .repositorioLink9 button{
+        width: 500px;
+        height: 100px;
+        background: linear-gradient(rgb(71, 72, 75),rgb(87, 90, 76), rgb(85, 85, 49));
+        color: rgb(232, 233, 227);
+        cursor: pointer;
+        position: fixed;
+        font-size: 37px;
+        margin-top: -10px;
+        border-radius: 0px;
+        transform: translateX(-0px);
+        border: 0;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .repositorioLink9 button:hover{
+        background-color:  #333;
+        color: #fff;
+    }
+    
+    .codigo9{
+        width: 200px;
+        margin-top: -60px;
+        height: 200px;
+        margin-left: -40px;
+        float:left ;
+        display: none;
+        
+    }
+    .codigo9 button{
+        margin-left: 0px;
+        margin-top: 50px;
+    
+    }
+    
+    .Conteudo{
+        width: 100%;
+        margin-top: 0px;
+        overflow: scroll;
+        height: 365px;
+        float:left ;
+    }
+}
+    @media (max-width:1023px) and (min-width:701px) {
+    
+        .repositorioLink9{
+            width: 120px;
+            margin-top: 350px;
+            height: 80px;
+            position: absolute;
+            transform: translateX(-390px);
+           
+        }
+        .repositorioLink9 button{
+            width: 800px;
+            height: 150px;
+            background: linear-gradient(rgb(71, 72, 75),rgb(87, 90, 76), rgb(85, 85, 49));
+            color: rgb(232, 233, 227);
+            cursor: pointer;
+            position: fixed;
+            font-size:50px;
+            margin-top: -10px;
+            border-radius: 0px;
+            transform: translateX(-0px);
+            border: 0;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        .repositorioLink9 button:hover{
+            background-color:  #333;
+            color: #fff;
+        }
+        
+        .codigo9{
+            width: 200px;
+            margin-top: -60px;
+            height: 200px;
+            margin-left: -40px;
+            float:left ;
+            display: none;
+            
+        }
+        .codigo9 button{
+            margin-left: 0px;
+            margin-top: 50px;
+        
+        }
+        
+        .Conteudo{
+            width: 100%;
+            margin-top: 0px;
+            overflow: scroll;
+            height: 365px;
+            float:left ;
+        }
+    
+}

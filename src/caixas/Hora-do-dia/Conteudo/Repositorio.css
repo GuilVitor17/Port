@@ -1,0 +1,169 @@
+.repositorioLink{
+    width: 120px;
+    margin-top:-50px;
+    height: 80px;
+    margin-left: -320px;
+    transform: translateX(370px);
+   
+}
+.repositorioLink button{
+    width: 270px;
+    height: 40px;
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+    font-size: 17px;
+    margin-top: 0px;
+    border-radius: 0px;
+    transform: translateX(-35px);
+    border: 0;
+    z-index: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.codigo{
+    width: 200px;
+    margin-top: -40px;
+    height: 200px;
+    float:left ;
+    display: none;
+    z-index: 3000;
+    
+    
+}
+
+.Conteudo{
+    width: 100%;
+    margin-top: 0px;
+    overflow: scroll;
+    height: 365px;
+    float:left ;
+}
+#btn-curriculo{
+    display: none;
+}
+
+
+@media (max-width:700px) {
+
+     .repositorioLink{
+       width: 120px;
+        margin-top:-50px;
+        height: 80px;
+        margin-left: -320px;
+        transform: translateX(370px);
+       
+    }
+    .repositorioLink button{
+        width: 500px;
+        height: 100px;
+        background-color: #333;
+        color: #fff;
+        cursor: pointer;
+        display: none;
+        font-size: 37px;
+        margin-top: 500px;
+        border-radius: 10px;
+        transform: translateX(-0px);
+        border: 0;
+        z-index: 0;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    #btn-curriculo{
+        width: 500px;
+        height: 100px;
+        background-color: #333;
+        color: #fff;
+        cursor: pointer;
+        display: block;
+        font-size: 37px;
+        margin-top: 500px;
+        border-radius: 10px;
+        transform: translateX(-0px);
+        border: 0;
+        z-index: 0;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+    
+    
+    .codigo{
+        width: 200px;
+        margin-top: -40px;
+        height: 200px;
+        float:left ;
+        display: none;
+        z-index: 3000;
+         
+    }
+    .codigo button{
+        display: none;
+
+    }
+    
+    .Conteudo{
+        width: 100%;
+        margin-top: 0px;
+        overflow: scroll;
+        height: 365px;
+        float:left ;
+    }
+   
+}
+
+    @media (max-width:1023px) and (min-width:701px) {
+    
+        .repositorioLink{
+            width: 120px;
+            margin-top:-50px;
+            height: 80px;
+            margin-left: -320px;
+            transform: translateX(230px);
+           
+        }
+        .repositorioLink button{
+            display: none;
+        }
+        #btn-curriculo{
+            width: 800px;
+            height: 150px;
+            background-color: #333;
+            color: #fff;
+            cursor: pointer;
+            font-size: 50px;
+            margin-top: 500px;
+            border-radius: 10px;
+            transform: translateX(-0px);
+            display: block;
+            border: 0;
+            z-index: 0;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        
+        
+        .codigo{
+            width: 200px;
+            margin-top: -40px;
+            height: 200px;
+            float:left ;
+            display: none;
+            z-index: 3000;
+             
+        }
+        .codigo button{
+            display: none;
+    
+        }
+        
+        .Conteudo{
+            width: 100%;
+            margin-top: 0px;
+            overflow: scroll;
+            height: 365px;
+            float:left ;
+        }
+    
+    
+    }

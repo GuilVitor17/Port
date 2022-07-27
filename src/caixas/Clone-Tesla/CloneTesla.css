@@ -1,0 +1,93 @@
+.cloneTesla{
+    width: 100%;
+    background-color: #240F52; 
+    background-image: linear-gradient(0deg, #000, #000);
+    height: 100vh;
+    overflow: hidden;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: flex-start;
+    align-items: center;
+     
+  }
+  
+  
+  
+  
+  .image-tarefa8{
+    width: 400px;
+    height: 560px;
+    margin-top: 50px;
+    background-image: url(./imags/a4408adf39a016d3baa5f4ddd8a1518c-removebg-preview.png );
+    position: absolute;
+    background-repeat: no-repeat;
+    margin-left: -580px;
+  }
+  
+
+
+
+  @media (max-width:700px) {
+    .cloneTesla{
+      width: 700px;
+      background-color: #240F52; 
+      background-image: linear-gradient(0deg, #000, #000);
+      height: 200vh;
+      overflow: hidden;
+      display:flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-content: flex-start;
+      align-items: center;
+       
+    }
+    
+    
+    
+    
+    .image-tarefa8{
+      width: 500px;
+      height: 560px;
+      margin-top: 100px;
+      background-image: url(./imags/a4408adf39a016d3baa5f4ddd8a1518c-removebg-preview.png );
+      position: static;
+      background-repeat: no-repeat;
+      margin-left: -0px;
+    }
+    
+  
+  }
+    @media (max-width:1023px) and (min-width:701px) {
+      .cloneTesla{
+        width: 1023px;
+        background-color: #240F52; 
+        background-image: linear-gradient(0deg, #000, #000);
+        height: 150vh;
+        overflow: hidden;
+        display:flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-content: flex-start;
+        align-items: center;
+         
+      }
+      
+      
+      
+      
+      .image-tarefa8{
+        width: 500px;
+        height: 560px;
+        margin-top: 100px;
+        background-image: url(./imags/a4408adf39a016d3baa5f4ddd8a1518c-removebg-preview.png );
+        position: static;
+        background-repeat: no-repeat;
+        margin-left: -0px;
+      }
+      
+    
+  }

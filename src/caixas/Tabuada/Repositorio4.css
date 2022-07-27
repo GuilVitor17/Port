@@ -1,0 +1,161 @@
+.repositorioLink4{
+    width: 120px;
+    margin-top: 70px;
+    height: 60px;
+    position: absolute;
+    transform: translateX(-180px);
+    margin-left:400px;
+}
+.repositorioLink4 button{
+    width: 220px;
+    height: 40px;
+    background: linear-gradient(180deg,rgb(0, 128, 100), rgb(95, 42, 165) );
+    color: #000;
+    cursor: pointer;
+    font-size: 17px;
+    position: absolute;
+    margin-top:0px;
+    border-radius: 0px;
+    border: 0;
+    z-index: 30060;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.repositorioLink4 button:hover{
+    background-color:  rgb(0, 128, 100);
+    background: linear-gradient(180deg,rgb(0, 128, 100), rgb(95, 42, 165) );
+}
+
+.codigo4{
+    width: 200px;
+    margin-top: 50px;
+    height: 200px;
+    float:left;
+    transform: translateX(-40px);
+    display: none;
+    
+}
+.codigo4 button{
+    margin-left: -0px;
+}
+
+.Conteudo{
+    width: 100%;
+    margin-top: 0px;
+    overflow: scroll;
+    height: 365px;
+    float:left ;
+}
+
+@media (max-width:700px){
+
+    .repositorioLink4{
+        width: 120px;
+        margin-top: 290px;
+        height: 60px;
+        position: static;
+        transform: translateX(-400px);
+        margin-left:390px;
+    }
+    .repositorioLink4 button{
+        width: 500px;
+        height: 100px;
+        background: linear-gradient(180deg,rgb(0, 128, 100), rgb(95, 42, 165) );
+        color: #000;
+        cursor: pointer;
+        font-size: 37px;
+        position: fixed;
+        margin-top:0px;
+        border-radius: 0px;
+        border: 0;
+        z-index: 0;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    }
+    .repositorioLink4 button:hover{
+        background-color:  rgb(0, 128, 100);
+        background: linear-gradient(180deg,rgb(0, 128, 100), rgb(95, 42, 165) );
+    }
+    
+    .codigo4{
+        width: 200px;
+        margin-top: 70px;
+        height: 200px;
+        float:left;
+        transform: translateX(-40px);
+        display: none;
+        
+    }
+    .codigo4 button{
+        margin-left: -0px;
+        margin-top: -70px;
+    }
+    
+    .Conteudo{
+        width: 100%;
+        margin-top: 0px;
+        overflow: scroll;
+        height: 365px;
+        float:left ;
+    }
+    
+    
+    
+}
+@media (max-width:1023px) and (min-width:701px) {
+
+   
+    .repositorioLink4{
+        width: 120px;
+        margin-top: 400px;
+        height: 60px;
+        position: absolute;
+        transform: translateX(-550px);
+        margin-left:400px;
+    }
+    .repositorioLink4 button{
+        width: 800px;
+        height: 150px;
+        background: linear-gradient(180deg,rgb(0, 128, 100), rgb(95, 42, 165) );
+        color: #000;
+        cursor: pointer;
+        font-size: 50px;
+        margin-top:0px;
+        border-radius: 0px;
+        border: 0;
+        z-index: 0;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: aquamarine;
+    
+    }
+    .repositorioLink4 button:hover{
+        background-color:  rgb(0, 128, 100);
+        background: linear-gradient(180deg,rgb(0, 128, 100), rgb(95, 42, 165) );
+    }
+    
+    .codigo4{
+        width: 200px;
+        margin-top: 50px;
+        height: 200px;
+        float:left;
+        transform: translateX(-40px);
+        display: none;
+        
+    }
+    .codigo4 button{
+        margin-left: -0px;
+        margin-top: -50px;
+    }
+    
+    .Conteudo{
+        width: 100%;
+        margin-top: 0px;
+        overflow: scroll;
+        height: 365px;
+        float:left ;
+    }
+    
+    
+       
+    
+}

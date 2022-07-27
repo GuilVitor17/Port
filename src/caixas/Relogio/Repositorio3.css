@@ -1,0 +1,151 @@
+.repositorioLink3{
+    width: 120px;
+    margin-top: -50px;
+    height: 80px;
+    position: absolute;
+    transform: translateX(-130px);
+   
+}
+.repositorioLink3 button{
+    width: 220px;
+    height: 40px;
+    background-color: #fff;
+    color: #000;
+    cursor: pointer;
+    font-size: 17px;
+    margin-top: 0px;
+    border-radius: 10px;
+    transform: translateX(170px);
+    border: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.repositorioLink3 button:hover{
+    background-color:  #333;
+    color: #fff;
+}
+
+.codigo3{
+    width: 200px;
+    margin-top: -40px;
+    height: 200px;
+    float:left ;
+    display: none;
+    
+}
+.codigo3 button{
+    margin-left: 0px;
+    margin-top: 50px;
+
+}
+
+.Conteudo{
+    width: 100%;
+    margin-top: 0px;
+    overflow: scroll;
+    height: 365px;
+    float:left ;
+}
+  
+ @media (max-width:700px) {
+    .repositorioLink3{
+        width: 500px;
+        margin-top: 390px;
+        height: 80px;
+        transform: translateX(0px);
+       
+    }
+    .repositorioLink3 button{
+        width: 500px;
+        height: 100px;
+        background-color: #fff;
+        color: #000;
+        cursor: pointer;
+        font-size: 37px;
+        margin-top: 0px;
+        border-radius: 10px;
+        position: fixed;
+        transform: translateX(-250px);
+        border: 0;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    
+    .codigo3{
+        width: 200px;
+        margin-top: -50px;
+        margin-left: 140px;
+        height: 200px;
+        float:left ;
+        display: none;
+        
+    }
+    .codigo3 button{
+        margin-left: 10px;
+        margin-top: 50px;
+    
+    }
+    
+    .Conteudo{
+        width: 100%;
+        margin-top: 0px;
+        overflow: scroll;
+        height: 365px;
+        float:left ;
+    }
+      
+        
+    
+ }   
+
+ @media (max-width:1023px) and (min-width:701px) {
+    .repositorioLink3{
+        width: 800px;
+        margin-top: 650px;
+        height: 180px;
+        transform: translateX(0px);
+       
+    }
+    .repositorioLink3 button{
+        width: 800px;
+        height: 150px;
+        background-color: #fff;
+        color: #000;
+        cursor: pointer;
+        font-size: 50px;
+        margin-top: 0px;
+        border-radius: 10px;
+        position: fixed;
+        transform: translateX(-400px);
+        border: 0;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    
+    .codigo3{
+        width: 200px;
+        margin-top: -50px;
+        margin-left: 200px;
+        height: 150px;
+        float:left ;
+        display: none;
+        
+    }
+    .codigo3 button{
+        width: 800px;
+        margin-left: 100px;
+        margin-top: 50px;
+    
+    }
+    
+    .Conteudo{
+        width: 100%;
+        margin-top: 0px;
+        overflow: scroll;
+        height: 365px;
+        float:left ;
+    }
+      
+        
+    
+ }   
+

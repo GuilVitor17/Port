@@ -1,0 +1,142 @@
+.repositorioLink10{
+    width: 120px;
+    margin-top: -50px;
+    height: 80px;
+    position: absolute;
+    transform: translateX(-130px);
+   
+}
+.repositorioLink10 button{
+    width: 220px;
+    height: 40px;
+    background: linear-gradient(rgb(18, 39, 161),rgb(129, 19, 120));
+    color: #fff;
+    cursor: pointer;
+    font-size: 17px;
+    margin-top: -10px;
+    border-radius: 10px;
+    transform: translateX(170px);
+    border: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.codigo10{
+    width: 200px;
+    margin-top: -40px;
+    height: 200px;
+    float:left ;
+    display: none;
+    
+}
+.codigo10 button{
+    margin-left: 0px;
+    margin-top: 50px;
+
+}
+
+.Conteudo{
+    width: 100%;
+    margin-top: 0px;
+    overflow: scroll;
+    height: 365px;
+    float:left ;
+}
+@media (max-width:700px) {
+    .repositorioLink10{
+        width: 120px;
+        margin-top: 390px;
+        height: 80px;
+        position: absolute;
+        transform: translateX(-420px);
+       
+    }
+    .repositorioLink10 button{
+        width:500px;
+        height: 100px;
+        background: linear-gradient(rgb(18, 39, 161),rgb(129, 19, 120));
+        color: #fff;
+        cursor: pointer;
+        position: fixed;
+        font-size: 37px;
+        margin-top: -10px;
+        border-radius: 10px;
+        transform: translateX(170px);
+        border: 0;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+    
+    .codigo10{
+        width: 200px;
+        margin-top: -60px;
+        height: 200px;
+        margin-left: -40px;
+        float:left ;
+        display: none;
+        
+    }
+    .codigo10 button{
+        margin-left: 0px;
+        margin-top: 50px;
+    
+    }
+    
+    .Conteudo{
+        width: 100%;
+        margin-top: 0px;
+        overflow: scroll;
+        height: 365px;
+        float:left ;
+    }
+}
+
+@media (max-width:1023px) and ( min-width:701px) {
+
+    .repositorioLink10{
+        width: 120px;
+        margin-top: 250px;
+        height: 80px;
+        position: absolute;
+        transform: translateX(-550px);
+       
+    }
+    .repositorioLink10 button{
+        width:800px;
+        height: 150px;
+        background: linear-gradient(rgb(18, 39, 161),rgb(129, 19, 120));
+        color: #fff;
+        cursor: pointer;
+        position: fixed;
+        font-size: 50px;
+        margin-top: -10px;
+        border-radius: 10px;
+        transform: translateX(170px);
+        border: 0;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+    
+    .codigo10{
+        width: 200px;
+        margin-top: -60px;
+        height: 200px;
+        margin-left: -40px;
+        float:left ;
+        display: none;
+        
+    }
+    .codigo10 button{
+        margin-left: 0px;
+        margin-top: 50px;
+    
+    }
+    
+    .Conteudo{
+        width: 100%;
+        margin-top: 0px;
+        overflow: scroll;
+        height: 365px;
+        float:left ;
+    }
+}
